@@ -15,7 +15,7 @@ public class App
 
         /* komentarz wieloliniowy
         aaa
-        bbb
+        troololololololololololol   Lololo
         ccc
          */
 
